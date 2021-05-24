@@ -1,0 +1,1 @@
+This is a Google homepage proyect build with the purpose of practice further the use of git and apply my current knowledge about html and css.
