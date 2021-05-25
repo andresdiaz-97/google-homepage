@@ -99,6 +99,30 @@ div {
     padding-left: 70%;
 }
 
+.wrapper-bottom {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    padding-right: 60%;
+    
+
+    /* Here is the footer part */
+    position: fixed;
+    left: 0;
+    bottom:  0;
+    width: auto;
+    background-color: #f2f2f2;
+    color: rgba(0,0,0,.54);
+    text-align: left;
+
+}
+
 .upper-btn {
+    margin: 10px 20px;
+}
+
+.left-ft {
+    padding: 0;
+    width: 100%;
     margin: 10px 20px;
 }
